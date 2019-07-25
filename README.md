@@ -1,2 +1,2 @@
-# portfolio
-This is a portfolio website
+# Nemo's portfolio
+Welcome to my portfolio website.
